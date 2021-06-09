@@ -5,7 +5,7 @@ const Content = () => {
     return (
         <div>
             <div className="flex flex-col justify-content items-center bg-white h-screen font-mono">
-                <img src={image1} alt="piz" className="h-full rounded mb-20 shadow w-400" />
+                <img src={image1} alt="piz" className="h-full rounded mb-40 shadow w-400" />
                 <div className="flex flex-col justify-center items-center">
                     <h2 className="text-2xl mb-2">Chicken Pizza</h2>
                     <p className="mb-2">$150</p>
